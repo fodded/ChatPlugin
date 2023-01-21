@@ -1,0 +1,4 @@
+name: ChatPlugin
+version: '${project.version}'
+main: me.fodded.chatplugin.Main
+api-version: 1.16
